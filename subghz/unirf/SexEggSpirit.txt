@@ -1,0 +1,6 @@
+UP: /ext/subghz/SexEgg_Spirit/Sext_up.sub
+OK: /ext/subghz/SexEgg_Spirit/Sext_off.sub
+DOWN: /ext/subghz/SexEgg_Spirit/Sext_dw.sub
+OKLABEL: Stop
+ULABEL: Intensity +
+DLABEL: Intensity -
